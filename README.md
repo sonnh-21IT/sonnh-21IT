@@ -1,36 +1,37 @@
-[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://rishavchanda.io)
-<h1 align="center">Hi 👋, I'm HONG SON NGUYEN</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sonnh-21it&label=Profile%20views&color=0e75b6&style=flat" alt="sonnh-21it" /> </p>
-<h3 align="left">A passionate frontend developer from VIETNAM</h3>
-
-<div align="left">
-
-- 🔭 I’m currently working on **VKU**
-
-- 🌱 I’m currently learning **Software engineer**
-
-- 💬 Ask me about **laravel,android ,**
-
-- 📫 How to reach me **sonnh.21it@gmail.com**
-
-- ⚡ Fun fact **I am Funny**
- </div>
-
- <hr/>
-<h3 align="center">Languages - Technology - Tools</h3>
-<br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=javascript,c,cpp,java,php,html,css" /><br>
-    <img src="https://skillicons.dev/icons?i=mysql,laravel,bootstrap,spring,firebase" /><br>
-    <img src="https://skillicons.dev/icons?i=github,git,vscode,postman" />
+    <h1>Hi there 👋, I'm HONG SON NGUYEN!</h1>
+    <h3>Software Engineer</h3>
+</div>
+<div align="center">
+    <img src="https://komarev.com/ghpvc/?username=sonnh-21IT&color=blue" alt="Profile Views">
+    <img src="https://img.shields.io/badge/Email-sonnh.21it@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" alt="Email Badge"/>
+    <img src="https://img.shields.io/badge/Phone/Zalo-0984399784-25D366?style=flat&logo=whatsapp&logoColor=white" alt="Phone Badge"/>
 </div>
 
-<br/>
-<hr/>
-<h2 align="center"> Stats </h2>
-<br>
-<div align=center>
-  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sonnh-21it&show_icons=true&locale=en&layout=compact" alt="sonnh-21it" /></p>
+I am a dynamic **Software Engineer** with a solid technical foundation and hands-on experience in building and automating comprehensive software solutions. My core expertise lies in **Java** and the **Spring Framework**, where I excel at developing robust and secure **RESTful APIs** using **Spring Security** and **JWT**. Beyond Java, I also have experience working with **Python (FastAPI)** and relational database systems such as **MySQL/PostgreSQL**. A key strength is my practical **DevOps** experience, including the ability to utilize **Docker/Docker Compose** for application containerization and configuring **CI/CD** pipelines with **GitHub Actions**, ensuring automated and efficient integration and deployment workflows. I am deeply committed to applying this combination of quality coding skills and automation mindset to the analysis, design, and programming of complex systems, and I continuously seek self-improvement through strong **self-learning**, **research**, and **problem-solving** abilities.
 
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sonnh-21it&" alt="sonnh-21it" /></p>
+<div>
+  <div align="center">
+     <img src="https://skillicons.dev/icons?i=git,docker,,githubactions,linux" />
+  </div>
+  <div align="center">
+    <img src="https://skillicons.dev/icons?i=java,spring,py,fastapi,php,laravel" />
+  </div>
+  <div align="center">
+    <img src="https://skillicons.dev/icons?i=js,html,,,css,react" />
+  </div>
+  <div align="center">
+    <img src="https://skillicons.dev/icons?i=bootstrap,mysql,postgres,figma" />
+  </div>
+  <div align="center">
+    <img src="https://skillicons.dev/icons?i=postman" />
+  </div>
+</div>
+
+<div align="center">
+ 
+ [![GitHub Streak](https://streak-stats.demolab.com?user=sonnh-21IT&theme=prussian&border_radius=5&short_numbers=true&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat)](https://git.io/streak-stats)
+
+ [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sonnh-21IT&layout=compact&theme=dark&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
+
 </div>
