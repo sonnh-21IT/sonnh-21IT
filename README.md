@@ -19,6 +19,9 @@ I have proven practical experience in DevOps and DevSecOps, including:
 + Security: Applying principles of information security and exploring tools like Trivy/OWASP ZAP.
 <br/>
 Committed to the analysis, design, and programming of complex systems, driven by strong self-learning and problem-solving abilities.
+<div>
+    <br/>
+</div>
 
 <div>
   <div align="center">
