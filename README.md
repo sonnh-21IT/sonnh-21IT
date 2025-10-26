@@ -8,7 +8,17 @@
     <img src="https://img.shields.io/badge/Phone/Zalo-0984399784-25D366?style=flat&logo=whatsapp&logoColor=white" alt="Phone Badge"/>
 </div>
 
-I am a dynamic **Software Engineer** with a solid technical foundation and hands-on experience in building and automating comprehensive software solutions. My core expertise lies in **Java** and the **Spring Framework**, where I excel at developing robust and secure **RESTful APIs** using **Spring Security** and **JWT**. Beyond Java, I also have experience working with **Python (FastAPI)** and relational database systems such as **MySQL/PostgreSQL**. A key strength is my practical **DevOps** experience, including the ability to utilize **Docker/Docker Compose** for application containerization and configuring **CI/CD** pipelines with **GitHub Actions**, ensuring automated and efficient integration and deployment workflows. I am deeply committed to applying this combination of quality coding skills and automation mindset to the analysis, design, and programming of complex systems, and I continuously seek self-improvement through strong **self-learning**, **research**, and **problem-solving** abilities.
+I am a dynamic **Software Engineer** specializing in robust system development, **DevOps**, and **Infrastructure** Automation. I possess the ability to contribute to **system architecture discussions**, focusing on scalability and technology selection. My core expertise lies in developing secure RESTful APIs using Java (Spring Framework/Spring Security) and Python (FastAPI), backed by strong relational database knowledge.
+
+<br/>
+
+I have proven practical experience in DevOps and DevSecOps, including:
++ Containerization: Utilizing Docker/Docker Compose for multi-service environments.
++ CI/CD & Automation: Implementing automated workflows using GitHub Actions.
++ Scalability & AI Ops: Hands-on experience with Celery/Redis queuing and LLM serving infrastructure.
++ Security: Applying principles of information security and exploring tools like Trivy/OWASP ZAP.
+<br/>
+Committed to the analysis, design, and programming of complex systems, driven by strong self-learning and problem-solving abilities.
 
 <div>
   <div align="center">
