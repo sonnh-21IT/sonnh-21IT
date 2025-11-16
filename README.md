@@ -1,5 +1,5 @@
 <div align="center">
-    <h1>Hi there 👋, I'm HONG SON NGUYEN!</h1>
+    <h1>Hi there 👋, I'm NGUYEN HONG SON!</h1>
     <h3>Software Engineer</h3>
 </div>
 <div align="center">
@@ -8,17 +8,9 @@
     <img src="https://img.shields.io/badge/Phone/Zalo-0984399784-25D366?style=flat&logo=whatsapp&logoColor=white" alt="Phone Badge"/>
 </div>
 
-I am a dynamic **Software Engineer** specializing in robust system development, **DevOps**, and **Infrastructure** Automation. I possess the ability to contribute to **system architecture discussions**, focusing on scalability and technology selection. My core expertise lies in developing secure RESTful APIs using Java (Spring Framework/Spring Security) and Python (FastAPI), backed by strong relational database knowledge.
-
-<br/>
-
-I have proven practical experience in DevOps and DevSecOps, including:
-+ Containerization: Utilizing Docker/Docker Compose for multi-service environments.
-+ CI/CD & Automation: Implementing automated workflows using GitHub Actions.
-+ Scalability & AI Ops: Hands-on experience with Celery/Redis queuing and LLM serving infrastructure.
-+ Security: Applying principles of information security and exploring tools like Trivy/OWASP ZAP.
-<br/>
-Committed to the analysis, design, and programming of complex systems, driven by strong self-learning and problem-solving abilities.
+A highly analytical and skilled professional with core expertise across the full-stack development lifecycle. I specialize in robust Backend Development , designing secure RESTful APIs using Python (FastAPI) and Java (Spring Framework) , and possess strong relational database knowledge (PostgreSQL/MySQL).
+I also bring practical experience in Web Technologies, including dynamic Frontend development using ReactJS/JavaScript (as seen in personal projects) and HTML/CSS/Bootstrap. My proficiency extends to DevOps and Infrastructure Automation , utilizing Docker/Docker Compose for containerization, and implementing CI/CD workflows with GitHub Actions. Additionally, I have hands-on experience integrating AI-driven workflows and supporting LLM-based Agents.
+Committed to system analysis and programming, driven by strong self-learning and problem-solving abilities.
 <div>
     <br/>
 </div>
